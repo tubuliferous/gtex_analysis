@@ -4,6 +4,9 @@ library(stringr)
 library(readr)
 library(data.table)
 
+###
+
+
 setwd("/Users/tubuliferous/Desktop/gtex_analysis/")
 
 bed_format_variants <- function(dt){
